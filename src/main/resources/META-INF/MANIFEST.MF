@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: misaku
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_241
+Main-Class: com.misaku.MainApp
+Class-Path: lib/jsoup-1.11.2.jar
+
+
